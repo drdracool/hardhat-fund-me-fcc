@@ -1,8 +1,8 @@
 # Hardhat Fund Me
 
-*This repo has been updated to work with Goerli over Rinkeby.*
 
-This is a section of the Javascript Blockchain/Smart Contract FreeCodeCamp Course.
+
+
 
 - [Hardhat Fund Me](#hardhat-fund-me)
 - [Getting Started](#getting-started)
